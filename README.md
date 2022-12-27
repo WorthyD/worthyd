@@ -2,7 +2,7 @@
 
 [![Twitter: WorthyD](https://img.shields.io/twitter/follow/worthyd?style=social)](https://twitter.com/worthyd)
 
-I'm a full stack developer out of North West Arkansas. I'm proficient in C# and JavaScript, but spend most of my time building Angular Applications.
+I'm a full stack developer out of North West Arkansas. I'm proficient in JavaScript and C#. I spend most of my time building front end apps. I'm familiar with Angular, React and Vue. My primary focus is on Angular.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=worthyd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
