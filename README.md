@@ -1,6 +1,7 @@
 ﻿# I'm Daniel Worthy
 
-[![Twitter: WorthyD](https://img.shields.io/twitter/follow/worthyd?style=social)](https://twitter.com/worthyd)
+[![Twitter: WorthyD](https://img.shields.io/twitter/follow/worthyd?style=social)](https://twitter.com/worthyd) ![Mastodon: @WorthyD@mastodon.world](https://img.shields.io/mastodon/follow/109343097678725303)
+
 
 I'm a full stack developer out of North West Arkansas. I'm proficient in JavaScript and C#. I spend most of my time building front end apps. I'm familiar with Angular, React and Vue. My primary focus is on Angular.
 
